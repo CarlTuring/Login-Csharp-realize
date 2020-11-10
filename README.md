@@ -3,7 +3,7 @@ This is my own design of a very simplified registration and login interface, cur
 这是我自己设计的一个非常简化的注册和登录界面，目前只有最基本的功能，MySQL数据库自带，图片等资料来自网络。
 
 注册界面：
-![Image text](https://cdn.retiehe.com/5dd75832b47b3adfd957ceeee2d222ae/png/%E6%B3%A8%E5%86%8C.png)
+![Image text](https://github.com/CarlTuring/Login-Csharp-realize/blob/main/img/%E6%B3%A8%E5%86%8C.png?raw=true)
 
 
 登录界面：
