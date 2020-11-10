@@ -7,7 +7,7 @@ This is my own design of a very simplified registration and login interface, cur
 
 
 登录界面：
-![Image text](https://shitu-query-gz.gz.bcebos.com/2020-11-10/16/db600cafcbd10a0e?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-10T08%3A03%3A13Z%2F300%2Fhost%2Fb899cc027f3402135c69161c2e975e42e39243992d5a07b9cdb3da4aa98fe9de)
+![Image text](https://shitu-query-gz.gz.bcebos.com/2020-11-10/16/db600cafcbd10a0e?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-10T08%3A09%3A32Z%2F300%2Fhost%2Fe9956c8ce2e134330f1ad07f33d30ee02da69045db4cb4fff4853ec05e711ec2)
 
 用户主界面：
 ![Image text](https://shitu-query-gz.gz.bcebos.com/2020-11-10/16/f95dfe21d5a5399c?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-10T08%3A04%3A38Z%2F300%2Fhost%2Facf407044c18fa3d0fdc522a75e23482f375e7378592c9f295db13dcf0ad6218)
