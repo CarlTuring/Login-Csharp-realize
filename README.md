@@ -13,7 +13,7 @@ This is my own design of a very simplified registration and login interface, cur
 ![Image text](https://cdn.retiehe.com/12ff7d29afbafc4bcb109c1335ce6d7e/png/%E7%95%8C%E9%9D%A2.png)
 
 数据库：
-![Image text](https://cdn.retiehe.com/c4c6c4063cfcaa59e8e63ba821db8d09/png/%E6%95%B0%E6%8D%AE%E5%BA%93.png)
+![Image text](https://github.com/CarlTuring/Login-Csharp-realize/blob/main/img/%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
 
 这是我为Github贡献的第一份开源项目，非常荣幸能参与到开源世界这个大家庭之中。
 This is the first open source project I've ever contributed to Github, and I'm honored to be part of the open source community.
