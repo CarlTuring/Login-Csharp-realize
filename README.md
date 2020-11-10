@@ -1,6 +1,6 @@
 # Login
-This is my own design of a very simplified registration and login interface, currently only the most basic functions, the database comes with it, pictures and other materials from the network.
-这是我自己设计的一个非常简化的注册和登录界面，目前只有最基本的功能，数据库自带，图片等资料来自网络。
+This is my own design of a very simplified registration and login interface, currently only the most basic functions, the MySQL database comes with it, pictures and other materials from the network.
+这是我自己设计的一个非常简化的注册和登录界面，目前只有最基本的功能，MySQL数据库自带，图片等资料来自网络。
 
 注册界面：
 ![Image text](https://shitu-query-gz.gz.bcebos.com/2020-11-10/16/cccb1f5f1201c7f2?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2020-11-10T08%3A04%3A22Z%2F300%2Fhost%2Fc18016d396ac851dc8796f1fa9cf3955ae87aeb7f9f0600518fd9538c9c0c717)
