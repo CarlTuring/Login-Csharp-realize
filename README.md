@@ -10,7 +10,7 @@ This is my own design of a very simplified registration and login interface, cur
 ![Image text](https://cdn.retiehe.com/09bbc3b628260a3ff80cbc4a16aac7c2/png/%E7%99%BB%E5%BD%95.jpg)
 
 用户主界面：
-![Image text](https://cdn.retiehe.com/12ff7d29afbafc4bcb109c1335ce6d7e/png/%E7%95%8C%E9%9D%A2.png)
+![Image text](https://github.com/CarlTuring/Login-Csharp-realize/blob/main/img/%E7%95%8C%E9%9D%A2.png?raw=true)
 
 数据库：
 ![Image text](https://github.com/CarlTuring/Login-Csharp-realize/blob/main/img/%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
